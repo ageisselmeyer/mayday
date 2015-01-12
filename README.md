@@ -1,3 +1,3 @@
-# mayday
-### this github page provides an overview of the mayday app on the app store / google play + contact info.
+## mayday is an app available for download on the app store / google play.
+#### this site provides an overview of the app as well as contact info.
 
