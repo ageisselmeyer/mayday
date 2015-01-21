@@ -57,7 +57,7 @@ body {
 }
 
 a {
-  color: #0094ff;
+  color: #333333;
 }
 a:hover {
   color: #c5000c;
@@ -248,7 +248,7 @@ h2 {
   margin-bottom: 8px;
   font-size: 22px;
   font-weight: bold;
-  color: #303030;
+  color: #333333;
 }
 
 h3 {
